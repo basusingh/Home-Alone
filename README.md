@@ -1,1 +1,3 @@
-# Home-Alone
+# Uproar
+Uproar is a  First-Person and Third-Person mobile shooting game that works on Hunter-Zombie logic. Players all over the world connect to their choice of the map along with other
+players. Initially, a small number of players starts as Zombie who have an unlimited number of lives with a bat and others as Hunters who have only 1 life with guns and bullets. As hunters die, they become a zombie until there are no hunters left. The last hunter to become zombie will start as a zombie and other zombies as hunters in the next round. For hunters to start hunting, they have to clear some hidden or visible obstacles first, whose activation control lies with zombies, before reaching zombies and killing them. The game might include in-app purchases for perks and features.
